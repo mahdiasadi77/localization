@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <NotepadPlus>
-    <Native-Langue name="farsi" filename="farsi.xml" version="7.5.5" RTL="yes">
+    <Native-Langue name="farsi" filename="farsi.xml" version="7.5.5">
         <Menu>
             <Main>
                 <!-- Main Menu Entries -->
